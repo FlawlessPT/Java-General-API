@@ -7,6 +7,6 @@ class CodeUsages {
     public static void main(String[] args) {
 //        MessageHelper messageHelper = new MessageHelper("Test message", APIMessageType.DIALOG);
 //        messageHelper.sendMessage();
-        MessageHelper.send(APIMessageType.DIALOG, "TESTE");
+        MessageHelper.send(APIMessageType.DIALOG, "TestMessage");
     }
 }
